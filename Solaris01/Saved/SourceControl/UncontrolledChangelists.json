@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"Z:/VR/Solaris/Solaris01/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"Z:/VR/Solaris/Solaris01/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"Z:/VR/Solaris/Solaris01/Content/VRTemplate/Blueprints/Grab_Statue.uasset",
+				"Z:/VR/Solaris/Solaris01/Content/VRTemplate/Blueprints/Ui.uasset",
+				"Z:/VR/Solaris/Solaris01/Content/VRTemplate/Maps/Level_1.umap",
+				"Z:/VR/Solaris/Solaris01/Content/VRTemplate/Audio/Fire_Cue.uasset",
+				"Z:/VR/Solaris/Solaris01/Content/VRTemplate/Maps/Trigger_level.uasset",
+				"Z:/VR/Solaris/Solaris01/Content/VRTemplate/Maps/Trigger_level1.uasset",
+				"Z:/VR/Solaris/Solaris01/Content/VFX/NewNiagaraSystem.uasset",
+				"Z:/VR/Solaris/Solaris01/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset",
+				"Z:/VR/Solaris/Solaris01/Content/VRTemplate/Blueprints/WidgetMenu.uasset"
+			]
+		}
+	]
+}
