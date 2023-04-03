@@ -16,7 +16,13 @@
 				"Z:/VR/Solaris/Solaris01/Content/VFX/NewNiagaraSystem.uasset",
 				"Z:/VR/Solaris/Solaris01/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset",
 				"Z:/VR/Solaris/Solaris01/Content/VRTemplate/Blueprints/WidgetMenu.uasset",
-				"C:/Users/Entrancexo/Desktop/Solaris_v0.1/Solaris01/Content/VRTemplate/Maps/VRTemplateMap.umap"
+				"C:/Users/Entrancexo/Desktop/Solaris_v0.1/Solaris01/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/Entrancexo/Desktop/Solaris_v0.1/Solaris01/Content/IA_MoveThumb.uasset",
+				"C:/Users/Entrancexo/Desktop/Solaris_v0.1/Solaris01/Content/VRTemplate/Input/Actions/IA_Jump.uasset",
+				"C:/Users/Entrancexo/Desktop/Solaris_v0.1/Solaris01/Content/VRTemplate/Input/IMC_Default.uasset",
+				"C:/Users/Entrancexo/Desktop/Solaris_v0.1/Solaris01/Content/IMC_MOveThumb_.uasset",
+				"C:/Users/Entrancexo/Desktop/Solaris_v0.1/Solaris01/Content/VRTemplate/Input/PMI_VRTemplate.uasset",
+				"C:/Users/Entrancexo/Desktop/Solaris_v0.1/Solaris01/Content/VRTemplate/Blueprints/VRPawn.uasset"
 			]
 		}
 	]
